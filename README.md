@@ -14,3 +14,6 @@
 First, I transformed the categorical variables into dummy variables. Then, I utilized multiple linear regression and calculated the correlation coefficient to assess the model's ability to predict the risk of stroke based on age, blood pressure, and smoking status.
 
 Additionally, I created a new data frame that includes the actual risk and predicted risk to analyze the model's results and check for bias. The results are visualized in the plot below:
+
+![alt text](https://github.com/anmon6/stroke_proj/blob/main/Risk_vs_Predicted_Risk.PNG?raw=true)
+
